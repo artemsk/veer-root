@@ -1,0 +1,26 @@
+{
+	"name": "artemsk/veer-root",
+	"description": "The Veer Container.",
+	"keywords": ["veer", "laravel", "laravel-based"],
+	"license": "MIT",
+	"authors": [
+        {
+            "name": "Artyom Troshin",
+            "email": "garcia82@yandex.ru"
+        }
+    ],
+    "require": {	
+        "php": ">=5.4.0",
+        "artemsk/veer-core": "dev-master"
+    },
+    "require-dev": {	
+        "php": ">=5.4.0",
+        "artemsk/veer-core": "dev-master"
+    },	
+	"autoload": {
+        "classmap": [
+			"app/database"
+        ]
+	},
+	"minimum-stability": "stable"
+}
