@@ -11,11 +11,11 @@
     ],
     "require": {	
         "php": ">=5.4.0",
-        "artemsk/veer-core": "dev-master"
+        "artemsk/veer-core": "*"
     },
     "require-dev": {	
         "php": ">=5.4.0",
-        "artemsk/veer-core": "dev-master"
+        "artemsk/veer-core": "*"
     },	
 	"autoload": {
         "classmap": [
