@@ -2,7 +2,7 @@
 
 return array(
 
-	'driver' => 'log',
+	'driver' => 'mail',
 	
 	'pretend' => true,
 	
